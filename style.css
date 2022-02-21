@@ -1,0 +1,22 @@
+body {
+    background: lightblue;
+}
+
+section {
+    background: none;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color: cadetblue;
+}
+
+h2 {
+    color: chartreuse;background:white;border-bottom:5px solid #ccc;
+}
+nav a {color: #F00;}
+a {color:lightsalmon;}
+.special-article {background:lightblue;}
